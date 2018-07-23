@@ -1,0 +1,13 @@
+<Name> Chris Redfield </Name>
+<AFM> 234231687 </AFM>
+<Income> 23050.0 </Income>
+<BasicTax> 1233.175 </BasicTax>
+<TaxIncrease> -184.97624999999994 </TaxIncrease>
+<TotalTax> 1048.19875 </TotalTax>
+<TotalReceiptsGathered> 10 </TotalReceiptsGathered>
+
+<Entertainment> 0 </Entertainment>
+<Basic> 1 </Basic>
+<Travel> 1 </Travel>
+<Health> 2 </Health>
+<Other> 2 </Other>
