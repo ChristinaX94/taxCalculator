@@ -1,0 +1,18 @@
+<Name> Harry Mason </Name>
+<AFM> 600631280 </AFM>
+<Status> MarriedFillingSeperately </Status>
+<Income> 12021 </Income>
+
+<Receipts>
+
+<ReceiptID> 1 </ReceiptID>
+<Date> 2/4/1998 </Date>
+<Kind> Entertainment </Kind>
+<Amount> 50 </Amount>
+<Company> Toluca Amusement Park </Company>
+<Country> USA </Country>
+<City> Silent Hill </City>
+<Street> Nathan AVE </Street>
+<Number> 23 </Number>
+
+</Receipts>
