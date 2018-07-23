@@ -1,0 +1,108 @@
+Name: Chris Redfield
+AFM: 234231687
+Status: Single
+Income: 23050
+
+Receipts:
+
+ReceiptID: 1
+Date: 19/5/1997
+Kind: Health
+Amount: 50
+Company: Umbrella Inc.
+Country: USA
+City: Raccoon City
+Street: T-virus
+Number: 6
+
+Receipt ID: 2
+Date: 23/5/1997
+Kind: Other
+Amount: 10
+Company: Jill Sandwich
+Country: USA
+City: Raccoon City
+Street: C-virus
+Number: 22
+
+Receipt ID: 5
+Date: df
+Kind: fd
+Amount: 4343
+Company: df
+Country: df
+City: df
+Street: fd
+Number: 4
+
+Receipt ID: 3
+Date: sd
+Kind: sdf
+Amount: 5555
+Company: gd
+Country: dfg
+City: dfg
+Street: gf
+Number: 4
+
+Receipt ID: 6
+Date: fgs
+Kind: fgj
+Amount: 656
+Company: rhk
+Country: ghg
+City: fth
+Street: rhty
+Number: 5
+
+Receipt ID: 14
+Date: rer
+Kind: Basic
+Amount: 5000
+Company: er
+Country: rty
+City: gr
+Street: gr
+Number: 46
+
+Receipt ID: 11
+Date: ert
+Kind: Travel
+Amount: 7000
+Company: bsaa
+Country: edonia
+City: edonia
+Street: gfh
+Number: 7
+
+Receipt ID: 12
+Date: sdf
+Kind: sfgd
+Amount: 4434
+Company: cdv
+Country: sdf
+City: df
+Street: df
+Number: 3
+
+
+Receipt ID: 7
+Date: 13/7/2000
+Kind: Other
+Amount: 2
+Company: Dodoni
+Country: Greece
+City: Ioannina
+Street: Dodoni
+Number: 12
+
+
+Receipt ID: 8
+Date: 22/7/2018
+Kind: Health
+Amount: 1000
+Company: RedCross
+Country: Greece
+City: Iraklion
+Street: Knossou
+Number: 49
