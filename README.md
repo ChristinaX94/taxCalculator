@@ -9,6 +9,6 @@ In this app, the user opens the window and by pressing the correct button he can
 
 Once opened, the main window fills with the information and the user can either close the tab, add a new tax payer, add or delete receipts, create charts or create log files in txt or xml format.
 
-*Solo Uni project - A tax calculator app based on Java, made on eclipse.*
+*Solo project of a university class - A tax calculator app written in Java, made on eclipse.*
 
 *For the charts, the library jfreechart is required/used (http://www.jfree.org/index.html).*
