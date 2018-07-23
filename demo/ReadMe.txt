@@ -1,4 +1,4 @@
-** EXAMPLE **
+**EXAMPLE**
 
 This folder contains an example of this program.
 MyTempFile.txt is the file that fits the criteria in order to be read by the program.
